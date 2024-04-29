@@ -1,5 +1,5 @@
 ## Hi, This is Irfan Khan <img src="img/hello.gif" width="28px" alt="hi">
-[<img src='https://github.com/codewithsad/codwithsad/blob/main/img/bg.jpg?raw=true' alt='Sadia Islam'>](https://github.com/codewithsad/)
+[<img src='https://github.com/codewithirfankhan/codewithirfankhan/blob/main/img/irfan.jpeg?raw=true' alt='Irfan Khan'>](https://github.com/codewithirfankhan)
 <p>
 👨‍💻 I'm High Converting Landing Page Designer & Sales Funnel Expert <br> 
 ⚡ WP, CF & Unbounce Expert <br>
