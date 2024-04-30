@@ -5,7 +5,7 @@
 ⚡ Sales Funnel, CF2.0 & Unbounce, GoHighLevel Expert <br>
 ⭐ Tips, Tricks & Resources <br>
 🖊️ Love to solve the problem <br> 
-🎤 Like to share my knowledge <br>
+🎤 Like to learn new technology <br>
 👉 Open to collabs/projects </p> 
 
 
@@ -29,10 +29,10 @@ Experienced High Converting Landing Page Designer & WordPress Developer with a d
 ✅ ClickFunnels <br> 
 ✅ GoHighLevel <br> 
 ✅ Troubleshooting <br> 
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ JavaScript <br>
 ✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ Canva / Photoshop / Illustrator <br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithirfankhan&layout=compact)
