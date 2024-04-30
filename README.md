@@ -1,10 +1,10 @@
 ## Hi, This is Irfan Khan <img src="img/hello.gif" width="28px" alt="hi">
 [<img src='https://github.com/codewithirfankhan/codewithirfankhan/blob/main/img/irfan.jpeg?raw=true' alt='Irfan Khan'>](https://github.com/codewithirfankhan)
 <p>
-👨‍💻 I'm High Converting Landing Page Designer & Sales Funnel Expert <br> 
-⚡ WP, CF & Unbounce Expert <br>
+👨‍💻 I'm High Converting Landing Page Designer &  WordPress Developer<br> 
+⚡ Sales Funnel, CF2.0 & Unbounce, GoHighLevel Expert <br>
 ⭐ Tips, Tricks & Resources <br>
-🖊️ Love to write code <br> 
+🖊️ Love to solve the problem <br> 
 🎤 Like to share my knowledge <br>
 👉 Open to collabs/projects </p> 
 
