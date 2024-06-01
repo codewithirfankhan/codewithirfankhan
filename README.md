@@ -6,7 +6,7 @@
 ⭐ Tips, Tricks & Resources <br>
 🖊️ Love to solve the problem <br> 
 🎤 Like to learn new technology <br>
-👉 Open to collabs/projects </p> 
+👉 Open to collabs/projects </p>
 
 
 <p align="left"> <a href="https://twitter.com/codewithirfankh" target="blank"><img src="https://img.shields.io/twitter/follow/codewithirfankh?logo=twitter&style=for-the-badge" alt="codewithirfankh" /></a> </p>
